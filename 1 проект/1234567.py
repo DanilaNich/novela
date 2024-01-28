@@ -5,7 +5,7 @@ print(current_datetime)
 def privetstvie():
     print("Добро пожаловать в игру:")
     time.sleep(1)
-    print("'52 аномилиb'")
+    print("'52 аномилии'")
     time.sleep(1)
     print("Что бы узнать автора введите, во время вопроса про сохранение кодовое слово: 'Avtor'")
     time.sleep(1)
